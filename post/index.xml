@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 00:14:13 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticle</title>
+      <link>/post/myfirstarticle/</link>
+      <pubDate>Thu, 29 Jun 2023 00:14:13 +0800</pubDate>
+      
+      <guid>/post/myfirstarticle/</guid>
+      <description>
+        
+          
+            #第一篇博客内容
+#遇到的问题：2）第一步加载路径文件时显示拒绝访问（我是直接打开cmd操作的，下载在D盘）
+#解决方法：看视频，直接在文件夹的路径里输入cmd
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
